@@ -1,0 +1,85 @@
+
+.body{
+background-image: url("https://wallpapercave.com/wp/OELdkBa.jpg");
+background-attachment: fixed;
+
+}
+.header{
+text-align: center;
+font-size: 400%;
+font-style: white;
+}
+
+#otherheader {
+text-align: center;
+font-style: italic;
+}
+    
+.navbar{
+position: sticky;
+width: 100%;
+top: ;
+background-color:gray ;
+padding: ;
+font-size: 200%;
+border-radius: 10px 10px 10px 10px;
+border-color: blue;
+border-width: 5px;
+text-align: center;
+font-color: ;
+}
+
+#li1{
+margin: 25px 25px 25px 25px;
+display: inline;
+border: 1px transparent solid;
+}
+
+#li2{
+margin: 50px;
+display: inline;
+border: 1px transparent solid;
+}
+
+
+#li3{
+margin: 50px;
+display: inline;
+border: 1px transparent solid;
+}
+#li4{
+margin: 50px;
+display: inline;
+border: 1px transparent solid;
+}
+
+.section1{
+background-image: ;
+float: left;
+top: ;
+position: static ;
+padding: 5px ;
+align-items: left ;
+background-color: ;
+margin: 20px ;
+}
+
+.section2{
+float: left;
+top: ;
+position: static ;
+padding: 5px ;
+align-items: left;
+background-color:  ;
+margin: 20px ;
+}
+
+.section3{
+float: left;
+top: ;
+position: static ;
+padding: 5px ;
+align-items: left;
+background-color: ;
+margin: 20px ;
+}
